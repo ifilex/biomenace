@@ -1,0 +1,6 @@
+{
+  "name": "Bio-Menace 8-Bit Retro Game Engine",
+  "description": "Retro 8-bit platformer action game inspired by Bio Menace with 6 expansive levels, fluid gamepad/touch controls, chiptune soundtrack, real-time neuro-cognitive assessment, and guided breathing support.",
+  "requestFramePermissions": ["notifications"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
